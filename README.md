@@ -3,6 +3,8 @@ Inspired by the dear-github project, this is a repository that uses GitHub Issue
 
 The Issues submitted here do not need to strictly be about Code Monkeys Discord. You may submit any suggestion you like; about the website, GitHub organization, etc.
 
+I recommend to either add a :thumbsup: or a :thumbsdown: emoji to topics that you either support or do not support.
+
 We only ask that you keep the discussion on-topic. You may comment on individual Issues, or discuss them in the `#suggestions` channel of the [Discord Server](https://discord.me/cm).
 
 If there are any changes or extra information that you believe should be added to this repository, feel free to fork and submit a pull request.
